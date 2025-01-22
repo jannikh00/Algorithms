@@ -44,4 +44,4 @@ This course explores algorithms from a coding-focused perspective, using Python.
   - P vs. NP Completeness
 
 ## Assignments
-1. **Assignment 1 (inheritance.py)**: Object-Oriented Programming - Vehicle, Car, and Truck classes.
+1. **Assignment 1**: Object-Oriented Programming - Vehicle, Car, and Truck classes.
