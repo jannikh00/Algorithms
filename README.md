@@ -47,3 +47,6 @@ This course explores algorithms from a coding-focused perspective, using Python.
 - **Assignment 1:** Object-Oriented Programming - Vehicle, Car, and Truck classes
 - **Assignment 2:** Finding the Minimum Value (O(n²) vs. O(n))
 - **Assignment 3:** Reverse Polish Notation (RPN) Calculator
+- **Assignment 4:** Recursive Algorithms - Factorial, Sum, Fibonacci, and String Reversal
+- **Assignment 5:** Divide and Conquer - Finding Min/Max using Recursion
+- **Assignment 6:** Graph Traversal - Breadth-First Search (BFS)
